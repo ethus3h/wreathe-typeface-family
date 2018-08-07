@@ -1,1008 +1,225 @@
-  File: ./CONTRIBUTING.md\
+3.1.2.5.14.111
+./CONTRIBUTING.md
+:
+f:644:1000:kyan:1000:kyan:2017:07:10:04:01:08.5009081650:EDT:2017:07:10:04:01:08.5009081650:EDT
+
+./legacy
+:
+d:755:1000:kyan:1000:kyan:2017:02:16:21:48:46.8375147470:EST:2017:02:16:21:48:46.8375147470:EST
+
+./legacy/Wreathe-I.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:27.0752036620:EST
+
+./legacy/FreeViet.zip
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7051291620:EST
+
+./legacy/InsularVsAeon.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.5951775580:EST
+
+./legacy/Wreathe-R.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:27.0752036620:EST
+
+./legacy/WreatheM.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:09.0000000000:EDT:2016:12:18:00:19:27.6852368470:EST
+
+./legacy/BureNutheu.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6951286180:EST
+
+./legacy/FreeVtimesItalic.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7051291620:EST
+
+./legacy/FSansUTv.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6951286180:EST
+
+./legacy/FreeVtimes.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7051291620:EST
+
+./legacy/FreeVtimesBoldItalic.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7051291620:EST
+
+./legacy/OCf.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.5951775580:EST
+
+./legacy/WreatheSC.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:09.0000000000:EDT:2016:12:18:00:19:27.7052379350:EST
+
+./legacy/Wreathe-BI.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:27.0752036620:EST
+
+./legacy/atfe.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:09.0000000000:EDT:2016:12:18:00:19:28.7752961580:EST
+
+./legacy/FQcensBold.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6951286180:EST
+
+./legacy/WreatheHanAJP1.0.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:27.3252172630:EST
+
+./legacy/FuturamerlincomUnicode15.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7251302480:EST
+
+./legacy/Unicode Font.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:27.0652031200:EST
+
+./legacy/FreeVPrsen.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7051291620:EST
+
+./legacy/AnoeyFuturamerlincom2.61.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6751275290:EST
+
+./legacy/FreeVMona.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6951286180:EST
+
+./legacy/OsageScript.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.6351797320:EST
+
+./legacy/TSemUets.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.8151895230:EST
+
+./legacy/TuremEcu.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.8951938720:EST
 
-  Size: 356       	Blocks: 2          IO Block: 512    regular file\
+./legacy/FQcens2.0.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6951286180:EST
 
-Device: 32h/50d	Inode: 378416      Links: 1\
+./legacy/Forest.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6951286180:EST
 
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+./legacy/FuturamerlinSpecials1.0.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7151297050:EST
 
-Access: 2018-02-09 19:40:21.793362242 -0500\
+./legacy/FuturamerlincomUnicode16.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.8151351410:EST
 
-Modify: 2017-07-10 04:01:08.500908165 -0400\
+./legacy/AnoeyTuinelanFuturamerlincom1.1.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6851280750:EST
 
-Change: 2017-07-10 04:01:08.500908165 -0400\
+./legacy/WreatheDecorative1.11.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:27.0752036620:EST
 
- Birth: -\
+./legacy/FuturamerlincomUnicode2.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.8751384040:EST
 
+./legacy/HanNCG.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.5851770150:EST
 
+./legacy/WreatheHanBJP1.0.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:09.0000000000:EDT:2016:12:18:00:19:27.6752363040:EST
 
-  File: ./legacy\
+./legacy/FellPD-V1-9Oct2013.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6951286180:EST
 
-  Size: 52        	Blocks: 5          IO Block: 3584   directory\
+./legacy/FreeU.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6951286180:EST
 
-Device: 32h/50d	Inode: 231446      Links: 2\
+./legacy/Wreathe-B.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:27.0752036620:EST
 
-Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+./legacy/FreeVietW.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7051291620:EST
 
-Access: 2018-08-05 03:45:51.277447510 -0400\
+./legacy/YKxTeNuu2.0.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:09.0000000000:EDT:2016:12:18:00:19:28.7752961580:EST
 
-Modify: 2017-02-16 21:48:46.837514747 -0500\
+./legacy/SMeNe0a.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.7951884350:EST
 
-Change: 2017-02-16 21:48:46.837514747 -0500\
+./legacy/Points.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.6351797320:EST
 
- Birth: -\
+./legacy/WreatheUnicode3.14.2.2.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:09.0000000000:EDT:2016:12:18:00:19:28.3652738460:EST
 
+./legacy/Buoneru.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6851280750:EST
 
+./legacy/FreeVtopia.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7051291620:EST
 
-  File: ./legacy/Wreathe-I.ttf\
+./legacy/AmetF.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.6751275290:EST
 
-  Size: 154164    	Blocks: 128        IO Block: 131072 regular file\
+./legacy/Ildishack3.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.5851770150:EST
 
-Device: 32h/50d	Inode: 232529      Links: 1\
+./legacy/FreeVtimesBold.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7051291620:EST
 
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+./legacy/WreatheSystem-Regular.ttf
+:
+f:644:1000:kyan:1000:kyan:2013:09:02:14:44:28.0000000000:EDT:2017:02:16:21:48:46.8375147470:EST
 
-Access: 2017-05-18 17:15:37.626595564 -0400\
+./legacy/FreeVtek.ttf
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.7051291620:EST
 
-Modify: 2016-10-29 15:45:08.000000000 -0400\
+./legacy/OeMuebt.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:26.6351797320:EST
 
-Change: 2016-12-18 00:19:27.075203662 -0500\
+./legacy/FuturamerlincomUnicode3.ttf
+:
+f:755:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:25.8851389480:EST
 
- Birth: -\
+./Wreathe3-Template-2017Feb16.sfd
+:
+f:644:1000:kyan:1000:kyan:2017:02:16:22:02:55.0000000000:EST:2017:02:16:22:07:14.8305406970:EST
 
+./README.md
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:45:08.0000000000:EDT:2016:12:18:00:19:24.4550612120:EST
 
+./CODE_OF_CONDUCT.md
+:
+f:644:1000:kyan:1000:kyan:2017:07:10:04:01:08.5009081650:EDT:2017:07:10:04:01:08.5009081650:EDT
 
-  File: ./legacy/FreeViet.zip\
-
-  Size: 247247    	Blocks: 515        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232503      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.775078649 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.705129162 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/InsularVsAeon.ttf\
-
-  Size: 12876     	Blocks: 20         IO Block: 13312  regular file\
-
-Device: 32h/50d	Inode: 232518      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.092811080 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.595177558 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/Wreathe-R.ttf\
-
-  Size: 169444    	Blocks: 112        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232530      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:15:37.626595564 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:27.075203662 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/WreatheM.ttf\
-
-  Size: 45632     	Blocks: 51         IO Block: 46080  regular file\
-
-Device: 32h/50d	Inode: 232534      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.112811221 -0500\
-
-Modify: 2016-10-29 15:45:09.000000000 -0400\
-
-Change: 2016-12-18 00:19:27.685236847 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/BureNutheu.ttf\
-
-  Size: 53516     	Blocks: 64         IO Block: 53760  regular file\
-
-Device: 32h/50d	Inode: 232494      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.062810870 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.695128618 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeVtimesItalic.ttf\
-
-  Size: 69856     	Blocks: 55         IO Block: 70144  regular file\
-
-Device: 32h/50d	Inode: 232509      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.805078877 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.705129162 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FSansUTv.ttf\
-
-  Size: 122564    	Blocks: 105        IO Block: 122880 regular file\
-
-Device: 32h/50d	Inode: 232497      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.072810939 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.695128618 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeVtimes.ttf\
-
-  Size: 66984     	Blocks: 53         IO Block: 67072  regular file\
-
-Device: 32h/50d	Inode: 232506      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.795078801 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.705129162 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeVtimesBoldItalic.ttf\
-
-  Size: 69252     	Blocks: 56         IO Block: 69632  regular file\
-
-Device: 32h/50d	Inode: 232508      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.805078877 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.705129162 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/OCf.ttf\
-
-  Size: 12420     	Blocks: 20         IO Block: 12800  regular file\
-
-Device: 32h/50d	Inode: 232519      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.092811080 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.595177558 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/WreatheSC.ttf\
-
-  Size: 45684     	Blocks: 50         IO Block: 46080  regular file\
-
-Device: 32h/50d	Inode: 232535      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.112811221 -0500\
-
-Modify: 2016-10-29 15:45:09.000000000 -0400\
-
-Change: 2016-12-18 00:19:27.705237935 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/Wreathe-BI.ttf\
-
-  Size: 139248    	Blocks: 114        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232528      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:15:37.616595489 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:27.075203662 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/atfe.ttf\
-
-  Size: 1764      	Blocks: 3          IO Block: 2048   regular file\
-
-Device: 32h/50d	Inode: 232538      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.122811290 -0500\
-
-Modify: 2016-10-29 15:45:09.000000000 -0400\
-
-Change: 2016-12-18 00:19:28.775296158 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FQcensBold.ttf\
-
-  Size: 75624     	Blocks: 76         IO Block: 75776  regular file\
-
-Device: 32h/50d	Inode: 232496      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.072810939 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.695128618 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/WreatheHanAJP1.0.ttf\
-
-  Size: 16134240  	Blocks: 18222      IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232532      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.102811151 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:27.325217263 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FuturamerlincomUnicode15.ttf\
-
-  Size: 1191656   	Blocks: 1587       IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232512      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.082811010 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.725130248 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/Unicode Font.ttf\
-
-  Size: 2966404   	Blocks: 3209       IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232526      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.102811151 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:27.065203120 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeVPrsen.ttf\
-
-  Size: 79884     	Blocks: 67         IO Block: 80384  regular file\
-
-Device: 32h/50d	Inode: 232502      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.775078649 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.705129162 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/AnoeyFuturamerlincom2.61.ttf\
-
-  Size: 347740    	Blocks: 194        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232491      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.695078043 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.675127529 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeVMona.ttf\
-
-  Size: 51476     	Blocks: 45         IO Block: 51712  regular file\
-
-Device: 32h/50d	Inode: 232501      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.775078649 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.695128618 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/OsageScript.ttf\
-
-  Size: 14900     	Blocks: 21         IO Block: 15360  regular file\
-
-Device: 32h/50d	Inode: 232521      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:15:37.596595338 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.635179732 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/TSemUets.ttf\
-
-  Size: 118088    	Blocks: 137        IO Block: 118272 regular file\
-
-Device: 32h/50d	Inode: 232524      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.102811151 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.815189523 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/TuremEcu.ttf\
-
-  Size: 818908    	Blocks: 760        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232525      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.102811151 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.895193872 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FQcens2.0.ttf\
-
-  Size: 130360    	Blocks: 140        IO Block: 130560 regular file\
-
-Device: 32h/50d	Inode: 232495      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.062810870 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.695128618 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/Forest.ttf\
-
-  Size: 30052     	Blocks: 38         IO Block: 30208  regular file\
-
-Device: 32h/50d	Inode: 232499      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.072810939 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.695128618 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FuturamerlinSpecials1.0.ttf\
-
-  Size: 155112    	Blocks: 138        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232511      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:15:37.586595263 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.715129705 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FuturamerlincomUnicode16.ttf\
-
-  Size: 3878276   	Blocks: 5325       IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232513      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.082811010 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.815135141 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/AnoeyTuinelanFuturamerlincom1.1.ttf\
-
-  Size: 135836    	Blocks: 34         IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232492      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.052810799 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.685128075 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/WreatheDecorative1.11.ttf\
-
-  Size: 28552     	Blocks: 38         IO Block: 28672  regular file\
-
-Device: 32h/50d	Inode: 232531      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.102811151 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:27.075203662 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FuturamerlincomUnicode2.ttf\
-
-  Size: 2417108   	Blocks: 2727       IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232514      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.082811010 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.875138404 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/HanNCG.ttf\
-
-  Size: 15717356  	Blocks: 12831      IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232516      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:15:37.596595338 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.585177015 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/WreatheHanBJP1.0.ttf\
-
-  Size: 24504236  	Blocks: 28174      IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232533      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.112811221 -0500\
-
-Modify: 2016-10-29 15:45:09.000000000 -0400\
-
-Change: 2016-12-18 00:19:27.675236304 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FellPD-V1-9Oct2013.ttf\
-
-  Size: 134560    	Blocks: 160        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232498      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.765078575 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.695128618 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeU.ttf\
-
-  Size: 20760     	Blocks: 29         IO Block: 20992  regular file\
-
-Device: 32h/50d	Inode: 232500      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.765078575 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.695128618 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/Wreathe-B.ttf\
-
-  Size: 210124    	Blocks: 154        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232527      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:15:37.616595489 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:27.075203662 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeVietW.ttf\
-
-  Size: 45248     	Blocks: 41         IO Block: 45568  regular file\
-
-Device: 32h/50d	Inode: 232504      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.785078727 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.705129162 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/YKxTeNuu2.0.ttf\
-
-  Size: 2675408   	Blocks: 2444       IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232537      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.112811221 -0500\
-
-Modify: 2016-10-29 15:45:09.000000000 -0400\
-
-Change: 2016-12-18 00:19:28.775296158 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/SMeNe0a.ttf\
-
-  Size: 3105928   	Blocks: 1935       IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232523      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.092811080 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.795188435 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/Points.ttf\
-
-  Size: 2636      	Blocks: 4          IO Block: 3072   regular file\
-
-Device: 32h/50d	Inode: 232522      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.092811080 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.635179732 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/WreatheUnicode3.14.2.2.ttf\
-
-  Size: 25011536  	Blocks: 25111      IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232536      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:15:37.646595714 -0400\
-
-Modify: 2016-10-29 15:45:09.000000000 -0400\
-
-Change: 2016-12-18 00:19:28.365273846 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/Buoneru.ttf\
-
-  Size: 975000    	Blocks: 504        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232493      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.062810870 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.685128075 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeVtopia.ttf\
-
-  Size: 69552     	Blocks: 56         IO Block: 69632  regular file\
-
-Device: 32h/50d	Inode: 232510      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:15:37.576595188 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.705129162 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/AmetF.ttf\
-
-  Size: 77764     	Blocks: 88         IO Block: 77824  regular file\
-
-Device: 32h/50d	Inode: 232490      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.052810799 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.675127529 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/Ildishack3.ttf\
-
-  Size: 2652      	Blocks: 4          IO Block: 3072   regular file\
-
-Device: 32h/50d	Inode: 232517      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.092811080 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.585177015 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeVtimesBold.ttf\
-
-  Size: 65392     	Blocks: 53         IO Block: 65536  regular file\
-
-Device: 32h/50d	Inode: 232507      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.795078801 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.705129162 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/WreatheSystem-Regular.ttf\
-
-  Size: 169544    	Blocks: 115        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 1127825     Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:15:37.646595714 -0400\
-
-Modify: 2013-09-02 14:44:28.000000000 -0400\
-
-Change: 2017-02-16 21:48:46.837514747 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FreeVtek.ttf\
-
-  Size: 76848     	Blocks: 66         IO Block: 77312  regular file\
-
-Device: 32h/50d	Inode: 232505      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:12:16.785078727 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.705129162 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/OeMuebt.ttf\
-
-  Size: 656596    	Blocks: 604        IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 232520      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.092811080 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:26.635179732 -0500\
-
- Birth: -\
-
-
-
-  File: ./legacy/FuturamerlincomUnicode3.ttf\
-
-  Size: 59576     	Blocks: 75         IO Block: 59904  regular file\
-
-Device: 32h/50d	Inode: 232515      Links: 1\
-
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-01-28 13:51:01.092811080 -0500\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:25.885138948 -0500\
-
- Birth: -\
-
-
-
-  File: ./Wreathe3-Template-2017Feb16.sfd\
-
-  Size: 47148     	Blocks: 26         IO Block: 47616  regular file\
-
-Device: 32h/50d	Inode: 1128891     Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-02-09 19:40:21.813362332 -0500\
-
-Modify: 2017-02-16 22:02:55.000000000 -0500\
-
-Change: 2017-02-16 22:07:14.830540697 -0500\
-
- Birth: -\
-
-
-
-  File: ./README.md\
-
-  Size: 323       	Blocks: 2          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 232397      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-07-07 00:20:22.168074933 -0400\
-
-Modify: 2016-10-29 15:45:08.000000000 -0400\
-
-Change: 2016-12-18 00:19:24.455061212 -0500\
-
- Birth: -\
-
-
-
-  File: ./CODE_OF_CONDUCT.md\
-
-  Size: 3229      	Blocks: 4          IO Block: 3584   regular file\
-
-Device: 32h/50d	Inode: 378415      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-02-09 19:40:21.793362242 -0500\
-
-Modify: 2017-07-10 04:01:08.500908165 -0400\
-
-Change: 2017-07-10 04:01:08.500908165 -0400\
-
- Birth: -\
-
-
-
-  File: ./LICENSE.md\
-
-  Size: 34280     	Blocks: 24         IO Block: 34304  regular file\
-
-Device: 32h/50d	Inode: 232396      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-02-09 19:40:21.793362242 -0500\
-
-Modify: 2016-12-07 21:15:46.738812197 -0500\
-
-Change: 2016-12-18 00:19:24.455061212 -0500\
-
- Birth: -\
-
-
+./LICENSE.md
+:
+f:644:1000:kyan:1000:kyan:2016:12:07:21:15:46.7388121970:EST:2016:12:18:00:19:24.4550612120:EST
 
